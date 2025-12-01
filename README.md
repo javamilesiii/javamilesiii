@@ -1,12 +1,6 @@
 # 👋 Hey there, I'm Loïc!
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=javamilesiii&style=for-the-badge&color=1a1b27)](https://github.com/javamilesiii)
 
-</div>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -15,11 +9,11 @@ I enjoy bringing ideas to life through code, solving real problems, and learning
 
 ### 💡 What I Do
 - 🎓 Currently working on **academic & personal projects**  
-- 🧠 Experience with **HTML, CSS, PHP, Java, Python, SQL, NoSQL**  
+- 🧠 Experience with **Javascript, Java, C#, PHP and others**  
 - 🌱 Exploring **JavaScript**, **Vue.js**, and modern web frameworks  
-- ⏳ Outside of tech: I’m into **scouting, volleyball, gaming**, and of course — more **coding**  
+- ⏳ Outside of tech: I’m into **scouting, volleyball, gaming**, and of course more **coding**  
 
----
+
 
 ## 🛠️ Languages & Tools
 
@@ -34,33 +28,12 @@ I enjoy bringing ideas to life through code, solving real problems, and learning
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Loïc’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=javamilesiii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
-
-## 🧩 Top Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javamilesiii&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 
 💬 Always open to collaboration, learning opportunities, or just a friendly chat!  
 📫 Reach out to me here on GitHub or via your favorite channel.  
-
----
-
-⭐️ *"Keep building, keep exploring, and stay curious."*
+<br>
+<div align="center">
+⭐️ <b>"Keep building, keep exploring, and stay curious."</b>
+</div>
